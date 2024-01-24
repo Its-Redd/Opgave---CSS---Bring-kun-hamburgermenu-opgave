@@ -126,6 +126,10 @@ nav ul a {
   right: 220px;
 }
 
+.submenu-btn:hover {
+  cursor: pointer;
+}
+
 .submenu-btn {
   position: absolute;
   top: 90px;
